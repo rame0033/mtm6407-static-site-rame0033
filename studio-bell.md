@@ -10,7 +10,7 @@ title: "Studio Bell"
 </div>
 
 <section class="restaurant-details">
-  <img src="./assets/studio-bell-small.jpg" alt="Calgary Tower" class="img-fluid mb-4">
+  <img src="/assets/studio-bell-small.jpg" alt="Calgary Tower" class="img-fluid mb-4">
   <h2>About Studio Bell</h2>
   <p>Calling all music lovers! Studio Bell showcases Canada’s music history with interactive exhibits and live performances. Located in Calgary’s vibrant East Village, Studio Bell is a must-visit destination for music lovers and history enthusiasts alike. This architectural masterpiece houses the National Music Centre, celebrating Canada’s rich musical heritage through interactive exhibits, rare instruments, and iconic memorabilia.</p>
 

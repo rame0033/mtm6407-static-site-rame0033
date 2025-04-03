@@ -10,7 +10,7 @@ title: "Calgary Tower"
 </div>
 
 <section class="restaurant-details">
-  <img src="./assets/calgary-tower-small.jpg" alt="Calgary Tower" class="img-fluid mb-4">
+  <img src="/assets/calgary-tower-small.jpg" alt="Calgary Tower" class="img-fluid mb-4">
   <h2>About Calgary Tower</h2>
   <p>A defining feature of the city’s skyline, the Calgary Tower offers breathtaking 360-degree views of downtown Calgary, the Rocky Mountains, and the vast Alberta prairies. Standing 191 meters (626 feet) tall, this iconic landmark provides a unique perspective of the city, especially from its glass-floored observation deck, where visitors can look straight down to the streets below. The tower is also home to Sky 360, a revolving restaurant that offers fine dining with stunning panoramic views. </p>
 

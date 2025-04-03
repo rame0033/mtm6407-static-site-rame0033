@@ -16,11 +16,11 @@ title: "Outdoor Adventures in Calgary"
 <div class="card bg-dark text-white">
   <picture>
     <!-- Image for small screens -->
-    <source srcset="./assets/grassy-lakes.jpg" media="(max-width: 576px)">
+    <source srcset="/assets/grassy-lakes.jpg" media="(max-width: 576px)">
     <!-- Image for medium screens -->
-    <source srcset="./assets/grassy-lakes-small.jpg" media="(min-width: 577px)">
+    <source srcset="/assets/grassy-lakes-small.jpg" media="(min-width: 577px)">
     <!-- Default image for larger screens -->
-    <img class="card-img subpage img-responsive" src="./assets/grassy-lakes.jpg" alt="Grassy Lakes Trail">
+    <img class="card-img subpage img-responsive" src="/assets/grassy-lakes.jpg" alt="Grassy Lakes Trail">
     </picture>
   <div class="card-img-overlay">
     <h5 class="card-title"><a href='grassi-lakes'>Grassi Lakes Trail</a></h5>
@@ -31,11 +31,11 @@ title: "Outdoor Adventures in Calgary"
 <div class="card bg-dark text-white">
   <picture>
     <!-- Image for small screens -->
-    <source srcset="./assets/bow-river.jpg" media="(max-width: 576px)">
+    <source srcset="/assets/bow-river.jpg" media="(max-width: 576px)">
     <!-- Image for medium screens -->
-    <source srcset="./assets/bow-river-small.jpg" media="(min-width: 577px)">
+    <source srcset="/assets/bow-river-small.jpg" media="(min-width: 577px)">
     <!-- Default image for larger screens -->
-    <img class="card-img subpage img-responsive" src="./assets/bow-river.jpg" alt="Bow River">
+    <img class="card-img subpage img-responsive" src="/assets/bow-river.jpg" alt="Bow River">
     </picture>
   <div class="card-img-overlay">
     <h5 class="card-title"><a href='bow-river'>Bow River Pathway – A Scenic Walk Through the City</a></h5>
@@ -46,11 +46,11 @@ title: "Outdoor Adventures in Calgary"
 <div class="card bg-dark text-white">
   <picture>
     <!-- Image for small screens -->
-    <source srcset="./assets/winsport.jpg" media="(max-width: 576px)">
+    <source srcset="/assets/winsport.jpg" media="(max-width: 576px)">
     <!-- Image for medium screens -->
-    <source srcset="./assets/winsport-small.jpg" media="(min-width: 577px)">
+    <source srcset="/assets/winsport-small.jpg" media="(min-width: 577px)">
     <!-- Default image for larger screens -->
-    <img class="card-img subpage img-responsive" src="./assets/winsport.jpg" alt="Winsport">
+    <img class="card-img subpage img-responsive" src="/assets/winsport.jpg" alt="Winsport">
     </picture>
   <div class="card-img-overlay">
     <h5 class="card-title"><a href='winsport'>Skiing & Snowboarding at WinSport</a></h5>

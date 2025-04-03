@@ -16,11 +16,11 @@ title: "Where to Eat in Calgary"
 <div class="card bg-dark text-white">
   <picture>
     <!-- Image for small screens -->
-    <source srcset="./assets/charcut.jpg" media="(max-width: 576px)">
+    <source srcset="/assets/charcut.jpg" media="(max-width: 576px)">
     <!-- Image for medium screens -->
-    <source srcset="./assets/charcut-small.jpg" media="(min-width: 577px)">
+    <source srcset="/assets/charcut-small.jpg" media="(min-width: 577px)">
     <!-- Default image for larger screens -->
-    <img class="card-img subpage img-responsive" src="./assets/charcut-tower.jpg" alt="Charcut Roast House">
+    <img class="card-img subpage img-responsive" src="/assets/charcut.jpg" alt="Charcut Roast House">
     </picture>
   <div class="card-img-overlay">
     <h5 class="card-title"><a href='./charcut'>Charcut Roast House</a></h5>
@@ -31,11 +31,11 @@ title: "Where to Eat in Calgary"
 <div class="card bg-dark text-white">
   <picture>
     <!-- Image for small screens -->
-    <source srcset="./assets/shokunin.jpg" media="(max-width: 576px)">
+    <source srcset="/assets/shokunin.jpg" media="(max-width: 576px)">
     <!-- Image for medium screens -->
-    <source srcset="./assets/shokunin-small.jpg" media="(min-width: 577px)">
+    <source srcset="/assets/shokunin-small.jpg" media="(min-width: 577px)">
     <!-- Default image for larger screens -->
-    <img class="card-img subpage img-responsive" src="./assets/shokunin.jpg" alt="Shokunin">
+    <img class="card-img subpage img-responsive" src="/assets/shokunin.jpg" alt="Shokunin">
     </picture>
   <div class="card-img-overlay">
     <h5 class="card-title"><a href='./shokunin'>Shokunin</a></h5>
@@ -46,11 +46,11 @@ title: "Where to Eat in Calgary"
 <div class="card bg-dark text-white">
   <picture>
     <!-- Image for small screens -->
-    <source srcset="./assets/native-tongue.jpg" media="(max-width: 576px)">
+    <source srcset="/assets/native-tongue.jpg" media="(max-width: 576px)">
     <!-- Image for medium screens -->
-    <source srcset="./assets/native-tongue-small.jpg" media="(min-width: 577px)">
+    <source srcset="/assets/native-tongue-small.jpg" media="(min-width: 577px)">
     <!-- Default image for larger screens -->
-    <img class="card-img subpage img-responsive" src="./assets/native-tongue.jpg" alt="Native Tongues Taqueria">
+    <img class="card-img subpage img-responsive" src="/assets/native-tongue.jpg" alt="Native Tongues Taqueria">
     </picture>
   <div class="card-img-overlay">
     <h5 class="card-title"><a href='./native-tongues'>Native Tongues Taqueria</a></h5>

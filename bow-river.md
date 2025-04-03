@@ -10,7 +10,7 @@ title: "Bow River Pathway"
 </div>
 
 <section class="restaurant-details">
-  <img src="./assets/bow-river-small.jpg" alt="Bow River" class="img-fluid mb-4">
+  <img src="/assets/bow-river-small.jpg" alt="Bow River" class="img-fluid mb-4">
   <h2>About Bow River Pathway</h2>
   <p>Flowing through the heart of Calgary, the Bow River is one of the city’s most scenic natural landmarks, offering a peaceful escape from urban life. Outdoor enthusiasts can also enjoy kayaking, rafting, and fishing along the river, making it a hotspot for recreational activities. Popular stops along the pathway include Prince’s Island Park, St. Patrick’s Island, and Edworthy Park, each providing unique green spaces to relax and explore.</p>
 

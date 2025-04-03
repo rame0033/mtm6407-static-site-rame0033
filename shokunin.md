@@ -10,7 +10,7 @@ title: "Shokunin"
 </div>
 
 <section class="restaurant-details">
-  <img src="./assets/shokunin-small.jpg" alt="Shokunin" class="img-fluid mb-4">
+  <img src="/assets/shokunin-small.jpg" alt="Shokunin" class="img-fluid mb-4">
   <h2>About Shokunin</h2>
   <p>The intimate setting, sleek décor, and curated cocktail and sake list make it a perfect spot for food lovers seeking authentic Japanese flavors with a modern twist. Highlights include wagyu beef skewers, umami-packed ramen, and the signature Shokunin egg. Whether you're a fan of Japanese cuisine or looking to try something new, Shokunin offers a world-class dining experience right in Calgary.</p>
 

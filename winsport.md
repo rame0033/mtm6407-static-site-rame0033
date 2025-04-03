@@ -10,7 +10,7 @@ title: "WinSport (Canada Olympic Park)"
 </div>
 
 <section class="restaurant-details">
-  <img src="./assets/winsport-small.jpg" alt="WinSport (Canada Olympic Park)" class="img-fluid mb-4">
+  <img src="/assets/winsport-small.jpg" alt="WinSport (Canada Olympic Park)" class="img-fluid mb-4">
   <h2>About WinSport</h2>
   <p>In winter, visitors can hit the slopes for skiing and snowboarding, try the exhilarating bobsleigh ride, or enjoy public ice skating. During the summer months, the park transforms into an outdoor playground with mountain biking trails, zip lines, and a thrilling summer bobsleigh experience. WinSport also offers training facilities for elite athletes and fun activities for families looking to stay active.</p>
 

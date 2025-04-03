@@ -10,7 +10,7 @@ title: "Charcut Roast House"
 </div>
 
 <section class="restaurant-details">
-  <img src="./assets/charcut-small.jpg" alt="Charcut Roast House" class="img-fluid mb-4">
+  <img src="/assets/charcut-small.jpg" alt="Charcut Roast House" class="img-fluid mb-4">
   <h2>About Charcut Roast House</h2>
   <p>A staple in Calgary’s culinary scene, CHARCUT Roast House is a must-visit for food lovers seeking bold, locally inspired flavors. This farm-to-table restaurant is known for its house-made charcuterie, wood-fired meats, and handcrafted pasta, all made with high-quality Alberta ingredients. </p>
 

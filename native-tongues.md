@@ -10,7 +10,7 @@ title: "Native Tongues"
 </div>
 
 <section class="restaurant-details">
-  <img src="./assets/native-tongue-small.jpg" alt="Native Tongues" class="img-fluid mb-4">
+  <img src="/assets/native-tongue-small.jpg" alt="Native Tongues" class="img-fluid mb-4">
   <h2>About Native Tongues</h2>
   <p>Bringing the bold, vibrant flavors of Mexico City to Calgary, Native Tongues Taqueria is a go-to spot for authentic Mexican street food. Known for its handmade corn tortillas, flame-grilled meats, and house-fermented hot sauces, every dish is packed with flavor and authenticity. Their al pastor tacos, quesabirria, and house-made guacamole are must-tries, while the late-night menu offers delicious antojitos perfect for a night out.</p>
 

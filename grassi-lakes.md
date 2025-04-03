@@ -10,7 +10,7 @@ title: "Grassy Lakes Trail"
 </div>
 
 <section class="restaurant-details">
-  <img src="./assets/grassy-lakes-small.jpg" alt="Grassy Lakes Trail" class="img-fluid mb-4">
+  <img src="/assets/grassy-lakes-small.jpg" alt="Grassy Lakes Trail" class="img-fluid mb-4">
   <h2>About Grassy Lakes Trail</h2>
   <p>Tucked away in the beautiful Canmore region, just outside Calgary, Grassi Lakes Trail is a must-visit hiking spot known for its stunning turquoise lakes and breathtaking mountain views. The trail offers two routes: an easy path with a gradual incline and a more challenging route featuring rocky steps and a waterfall along the way. </p>
 

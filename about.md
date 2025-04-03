@@ -25,7 +25,7 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
        <div class="overlay"></div>
-      <img src="./assets/attractions-banner.jpg" class="d-block w-100" alt="Downtown Calgary">
+      <img src="/assets/attractions-banner.jpg" class="d-block w-100" alt="Downtown Calgary">
       <div class="carousel-caption d-none d-md-block">
         <h5>Attractions</h5>
         <p>Discover Calgary's breathtaking landscapes, from the stunning Rocky Mountain views to the serene parks and rivers that weave through the city.</p>
@@ -33,7 +33,7 @@
     </div>
     <div class="carousel-item">
        <div class="overlay"></div>
-      <img src="./assets/food-banner.jpg" class="d-block w-100" alt="Calgary's delicacies">
+      <img src="/assets/food-banner.jpg" class="d-block w-100" alt="Calgary's delicacies">
       <div class="carousel-caption d-none d-md-block">
         <h5>Where to Eat</h5>
         <p>Whether you’re craving craft beer, delicious brunch, or international cuisine, we highlight the best places to eat and drink.</p>
@@ -41,7 +41,7 @@
     </div>
     <div class="carousel-item">
        <div class="overlay"></div>
-      <img src="./assets/nature-banner.jpg" class="d-block w-100" alt="Calgary nature">
+      <img src="/assets/nature-banner.jpg" class="d-block w-100" alt="Calgary nature">
       <div class="carousel-caption d-none d-md-block">
         <h5>Outdoor Adventures</h5>
         <p> Love the outdoors? So do we! From hiking and biking to skiing and kayaking, we share the best ways to enjoy Calgary’s stunning natural surroundings.</p>

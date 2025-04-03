@@ -10,7 +10,7 @@ title: "Calgary Stampede"
 </div>
 
 <section class="restaurant-details">
-  <img src="./assets/stampede-small.jpg" alt="Calgary Stampede" class="img-fluid mb-4">
+  <img src="/assets/stampede-small.jpg" alt="Calgary Stampede" class="img-fluid mb-4">
   <h2>About Calgary Stampede</h2>
   <p>Known as "The Greatest Outdoor Show on Earth," the Calgary Stampede is a world-famous event that celebrates western heritage, rodeo sports, and lively entertainment. Held every July, it features thrilling rodeo competitions, chuckwagon races, and an exciting midway filled with rides and games. Beyond the rodeo, visitors can enjoy live music performances, cultural exhibits, and delicious food—including the Stampede’s legendary deep-fried treats. </p>
 
