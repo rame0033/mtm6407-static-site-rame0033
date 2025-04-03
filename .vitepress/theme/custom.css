@@ -1,0 +1,184 @@
+/* Customize the button */
+a.btn-primary {
+    background-color: #ffffff; 
+    color: #b38600; 
+    border-color: #b38600;
+    position: relative;
+    z-index: 2;;
+}
+
+.VPImage.logo{
+    width: 7rem;
+    height: auto;
+}
+
+.VPNavBarMenuLink[data-v-687a61d0]:hover,
+.link[data-v-19086799]:hover{
+    color: #b38600
+}
+
+
+a.btn-primary:hover,
+.VPNavBarMenuLink.active[data-v-687a61d0] {
+    background-color:  #ffe53a; 
+    color: #000000;
+}
+
+/* Container width */
+.VPDoc:not(.has-sidebar) .container[data-v-343c73d6] {
+    max-width:1200px;
+    margin:0 auto;
+    padding:0 1rem;
+}
+
+.VPDoc:not(.has-sidebar) .content[data-v-343c73d6],
+.VPDoc.has-aside .content-container[data-v-343c73d6]  {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+/* Hide aside container */
+.VPDoc .aside[data-v-343c73d6] {
+    display: none;
+}   
+
+/* Customize the hero section */
+.hero-container.home{
+    background-color: #f8f9fa; 
+    background: url('https://edelweiss.scene7.com/is/image/flyedelweiss/yyc-nationalparks-header:story-560w?ts=1737373768747&dpr=on,2.625') no-repeat center center;
+    background-size: cover; 
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    width: 100%;
+    min-height: 100vh;
+    position: relative; 
+}
+
+.hero-container.contact{
+    background-image: url('./assets/contact-calgary.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-container.home::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(245, 245, 245, 0.5); 
+}
+
+.card picture::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(72, 72, 72, 0.5);
+}
+
+.hero-container.contact h1{
+    color: #f1f1f1;
+}
+
+.hero{
+    margin: 0 auto;
+}
+
+.hero h1 {
+    color: #343a40; 
+    z-index: 2;
+}
+
+.hero p {
+    color: #141414; 
+    font-weight: 500;
+    position: relative;
+    z-index: 2;
+}
+
+.carousel-item .overlay {
+  position: absolute;
+  inset: 0;
+  background: url('/assets/overlay.png') center/cover no-repeat;
+}
+.carousel-caption {
+    position: absolute;
+    z-index: 2; /* Ensure the text appears above the overlay */
+  }
+
+
+.VPHome > * {
+    position: relative;
+    z-index: 2;
+    margin-bottom: 0;
+}
+
+.footer-img{
+    margin: 0 auto;
+    width:15rem;
+}
+
+.contact input,
+.contact textarea {
+    width:100%;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: 1px solid #ccc;
+    background-color: #f8f9fa;
+}
+
+.social-links{
+    display: flex;
+        justify-content: center;
+        padding: 1rem;
+        gap: 2rem;
+}
+
+.social-links a{
+    color: #b38600;
+}
+
+.social-links a:hover{
+    color: #272727;
+}
+
+.VPHome[data-v-441e4bfa]{
+    margin: 0;
+}
+
+.VPDocFooter[data-v-43384334]{
+    margin-top:0;
+}
+
+.VPDoc[data-v-343c73d6]{
+    padding-bottom: 0;
+}
+
+.img-fluid{
+    margin: 0 auto;
+}
+
+.card-title a{
+    color: #fff5d8;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.card-title a:hover{
+    color: #fff5d8;
+    text-decoration: underline;
+}
+
+
+@media screen and (min-width:768px) {
+    .card-img.subpage{
+        height:10rem;
+        object-fit: cover;
+    }
+}
