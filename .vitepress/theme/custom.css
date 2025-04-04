@@ -17,8 +17,8 @@ a.btn-primary {
     color: #b38600
 }
 
-
-a.btn-primary:hover,
+.VPNavBarMenuLink.active[data-v-815115f5], .VPNavBarMenuLink[data-v-815115f5]:hover,
+.link[data-v-7eeeb2dc]:hover,
 .VPNavBarMenuLink.active[data-v-687a61d0] {
     background-color:  #ffe53a; 
     color: #000000;
@@ -57,7 +57,7 @@ a.btn-primary:hover,
 }
 
 .hero-container.contact{
-    background-image: url('./assets/contact-calgary.jpg');
+    background-image: url('/assets/contact-calgary.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -144,6 +144,18 @@ a.btn-primary:hover,
     color: #b38600;
 }
 
+.VPDoc .aside[data-v-e6f2a212]{
+    display: none;
+}
+
+.VPDoc.has-aside .content-container[data-v-e6f2a212] {
+    max-width: 1200px;
+}
+
+.content[data-v-e6f2a212]{
+    padding-bottom: 0;
+}
+
 .social-links a:hover{
     color: #272727;
 }
@@ -180,5 +192,11 @@ a.btn-primary:hover,
     .card-img.subpage{
         height:10rem;
         object-fit: cover;
+    }
+}
+
+@media (min-width: 1440px) {
+    .VPDoc:not(.has-sidebar) .content[data-v-e6f2a212] {
+        max-width: 1200px;
     }
 }
