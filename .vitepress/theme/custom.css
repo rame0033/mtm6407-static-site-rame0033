@@ -107,11 +107,19 @@ a.btn-primary {
   inset: 0;
   background: url('/assets/overlay.png') center/cover no-repeat;
 }
+
+.vp-doc a:hover {
+    color: #141414;
+}
+
+.btn:hover{
+    background-color: #ffe53a;
+}
+
 .carousel-caption {
     position: absolute;
     z-index: 2; /* Ensure the text appears above the overlay */
-  }
-
+}
 
 .VPHome > * {
     position: relative;

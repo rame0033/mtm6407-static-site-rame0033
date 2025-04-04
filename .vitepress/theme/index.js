@@ -6,9 +6,9 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 import './styles.scss'; 
 import './custom.css'; 
 
-// if (typeof document !== "undefined") {
-//   import('bootstrap/dist/js/bootstrap.bundle.min.js'); // Load Bootstrap only in the browser
-// }
+if (typeof document !== "undefined") {
+  import('bootstrap/dist/js/bootstrap.bundle.min.js'); // Load Bootstrap only in the browser
+}
 
 export default {
   ...DefaultTheme,
